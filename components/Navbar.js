@@ -40,9 +40,9 @@ const Navbar = () => (
     font-size: 28px;
   }
 .navbar-text:hover {
-    color:white;
+    color:blue;
   }
-.nav-link:active {
+a:active {
   color:blue;
 }
  
