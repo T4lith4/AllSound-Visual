@@ -15,11 +15,19 @@ const Footer = () => (
       </a>
      
         {" "}
-        <i class="fab fa-facebook-square icon"></i>
+       <a
+       href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"
+        target="_top"
+        className="icon-link">
+         <i class="fab fa-facebook-square icon"></i></a>
      
      
         {" "}
-        <i class="fas fa-phone-square icon"></i>
+       <a
+         href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"
+         target="_top"
+         className="icon-link">
+       <i class="fas fa-phone-square icon"></i></a>
      
     </div>
 
@@ -34,25 +42,26 @@ const Footer = () => (
         position: absolute;
         bottom: 0;
         font-size: 25px;
-        color: red;
       }
-      .nav .fas {
-        color: blue;
-      }
-
-      a {
-        font-size: 25px;
-        color: blue;
-      }
+     
       #comp {
-        color: yellow;
-        border: 1px solid red;
-
+        font-size: 15px;
+        padding: 10px;
+        margin-bottom: -20px;
       }
+
       #icon-box {
-        border: 1px solid blue;
         width: 100%;
         height: 50px;
+        display: flex;
+        justify-content: center;
+      }
+      #icon-box a {
+        color: grey;
+        padding: 10px; 
+      }
+      #icon-box a:hover {
+      color: red;
       }
     `}</style>
   </div>
