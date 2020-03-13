@@ -35,6 +35,12 @@ const Navbar = () => (
   </div>
 </nav>
 <style jsx>{`
+  .navbar-brand {
+    color:red;
+  }
+  .navbar-brand:hover {
+    color: blue
+  }
   
   .navbar-text {
     color: darkgrey;
