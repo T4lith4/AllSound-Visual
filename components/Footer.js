@@ -5,7 +5,7 @@ const Footer = () => (
    
 
     <div id="icon-box">
-    <div id="comp">AllSound Visual</div>
+    <div id="comp">AllSound Visual is registered as FC AV and Security Pty Ltd 2017</div>
       {" "}
       <a
         href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"

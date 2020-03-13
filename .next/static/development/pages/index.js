@@ -43,7 +43,7 @@ var Footer = function Footer() {
       lineNumber: 8
     },
     __self: this
-  }, "AllSound Visual"), " ", __jsx("a", {
+  }, "AllSound Visual is registered as FC AV and Security Pty Ltd 2017"), " ", __jsx("a", {
     href: "mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual",
     target: "_top",
     className: "jsx-3007401511" + " " + "icon-link",
@@ -97,7 +97,7 @@ var Footer = function Footer() {
   }))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     id: "3007401511",
     __self: this
-  }, ".nav.jsx-3007401511{background:darkgrey;font-family:calibri;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding:10px;width:100%;position:absolute;bottom:0;font-size:25px;}#comp.jsx-3007401511{font-size:15px;padding:10px;margin-top:7px;color:grey;font-weight:bold;}#comp.jsx-3007401511:hover{color:black;}#icon-box.jsx-3007401511{width:100%;height:50px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}#icon-box.jsx-3007401511 a.jsx-3007401511{color:grey;padding:10px;}#icon-box.jsx-3007401511 a.jsx-3007401511:hover{color:black;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcVGFsaXRoYVxcRG9jdW1lbnRzXFxGcmFuY29pc1xcY29tcG9uZW50c1xcRm9vdGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWdDZ0IsQUFHNkIsQUFXTCxBQU9ILEFBR0QsQUFNQSxBQUlDLFdBVEEsQUFNQyxDQVRmLEFBYUEsR0FwQmUsS0FYTyxHQXNCUCxDQU1mLElBaEJpQixZQVhGLEdBWUgsV0FDTSxpQkFDbEIsMEJBUXlCLGlCQXJCQSxrRkFzQnpCLGlCQXJCZSxhQUNGLFdBQ08sa0JBQ1QsU0FDTSxlQUNqQiIsImZpbGUiOiJDOlxcVXNlcnNcXFRhbGl0aGFcXERvY3VtZW50c1xcRnJhbmNvaXNcXGNvbXBvbmVudHNcXEZvb3Rlci5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vRm9vdGVyIGNvbXBvbmVuZXQgd2l0aCBhY3RpdmUgbGlua3NcclxuXHJcbmNvbnN0IEZvb3RlciA9ICgpID0+IChcclxuICA8ZGl2IGNsYXNzTmFtZT1cIm5hdlwiPlxyXG4gICBcclxuXHJcbiAgICA8ZGl2IGlkPVwiaWNvbi1ib3hcIj5cclxuICAgIDxkaXYgaWQ9XCJjb21wXCI+QWxsU291bmQgVmlzdWFsPC9kaXY+XHJcbiAgICAgIHtcIiBcIn1cclxuICAgICAgPGFcclxuICAgICAgICBocmVmPVwibWFpbHRvOmZyYW5jb2lzY29ldHplZUByb2NrZXRtYWlsLmNvbT9TdWJqZWN0PURlYXIlMjBBbGxTb3VuZFZpc3VhbFwiXHJcbiAgICAgICAgdGFyZ2V0PVwiX3RvcFwiXHJcbiAgICAgICAgY2xhc3NOYW1lPVwiaWNvbi1saW5rXCJcclxuICAgICAgPlxyXG4gICAgICAgIDxpIGNsYXNzPVwiZmFzIGZhLWVudmVsb3BlLXNxdWFyZSBpY29uXCI+PC9pPlxyXG4gICAgICA8L2E+e1wiIFwifVxyXG4gICAgICA8YVxyXG4gICAgICAgIGhyZWY9XCJtYWlsdG86ZnJhbmNvaXNjb2V0emVlQHJvY2tldG1haWwuY29tP1N1YmplY3Q9RGVhciUyMEFsbFNvdW5kVmlzdWFsXCJcclxuICAgICAgICB0YXJnZXQ9XCJfdG9wXCJcclxuICAgICAgICBjbGFzc05hbWU9XCJpY29uLWxpbmtcIlxyXG4gICAgICA+XHJcbiAgICAgICAgPGkgY2xhc3M9XCJmYWIgZmEtZmFjZWJvb2stc3F1YXJlIGljb25cIj48L2k+XHJcbiAgICAgIDwvYT57XCIgXCJ9XHJcbiAgICAgIDxhXHJcbiAgICAgICAgaHJlZj1cIm1haWx0bzpmcmFuY29pc2NvZXR6ZWVAcm9ja2V0bWFpbC5jb20/U3ViamVjdD1EZWFyJTIwQWxsU291bmRWaXN1YWxcIlxyXG4gICAgICAgIHRhcmdldD1cIl90b3BcIlxyXG4gICAgICAgIGNsYXNzTmFtZT1cImljb24tbGlua1wiXHJcbiAgICAgID5cclxuICAgICAgICA8aSBjbGFzcz1cImZhcyBmYS1waG9uZS1zcXVhcmUgaWNvblwiPjwvaT5cclxuICAgICAgPC9hPlxyXG4gICAgPC9kaXY+XHJcblxyXG4gICAgPHN0eWxlIGpzeD57YFxyXG4gICAgICAubmF2IHtcclxuICAgICAgICBiYWNrZ3JvdW5kOiBkYXJrZ3JleTtcclxuICAgICAgICBmb250LWZhbWlseTogY2FsaWJyaTtcclxuICAgICAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xyXG4gICAgICAgIHBhZGRpbmc6IDEwcHg7XHJcbiAgICAgICAgd2lkdGg6IDEwMCU7XHJcbiAgICAgICAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gICAgICAgIGJvdHRvbTogMDtcclxuICAgICAgICBmb250LXNpemU6IDI1cHg7XHJcbiAgICAgIH1cclxuICAgICAgI2NvbXAge1xyXG4gICAgICAgIGZvbnQtc2l6ZTogMTVweDtcclxuICAgICAgICBwYWRkaW5nOiAxMHB4O1xyXG4gICAgICAgIG1hcmdpbi10b3A6IDdweDtcclxuICAgICAgICBjb2xvcjpncmV5O1xyXG4gICAgICAgIGZvbnQtd2VpZ2h0OmJvbGQ7XHJcbiAgICAgIH1cclxuICAgICAgI2NvbXA6aG92ZXIge1xyXG4gICAgICAgIGNvbG9yOiBibGFjaztcclxuICAgICAgfVxyXG4gICAgICAjaWNvbi1ib3gge1xyXG4gICAgICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgICAgIGhlaWdodDogNTBweDtcclxuICAgICAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyO1xyXG4gICAgICB9XHJcbiAgICAgICNpY29uLWJveCBhIHtcclxuICAgICAgICBjb2xvcjogZ3JleTtcclxuICAgICAgICBwYWRkaW5nOiAxMHB4O1xyXG4gICAgICB9XHJcbiAgICAgICNpY29uLWJveCBhOmhvdmVyIHtcclxuICAgICAgICBjb2xvcjogYmxhY2s7XHJcbiAgICAgIH1cclxuICAgIGB9PC9zdHlsZT5cclxuICA8L2Rpdj5cclxuKTtcclxuXHJcbmV4cG9ydCBkZWZhdWx0IEZvb3RlcjtcclxuIl19 */\n/*@ sourceURL=C:\\Users\\Talitha\\Documents\\Francois\\components\\Footer.js */"));
+  }, ".nav.jsx-3007401511{background:darkgrey;font-family:calibri;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;padding:10px;width:100%;position:absolute;bottom:0;font-size:25px;}#comp.jsx-3007401511{font-size:15px;padding:10px;margin-top:7px;color:grey;font-weight:bold;}#comp.jsx-3007401511:hover{color:black;}#icon-box.jsx-3007401511{width:100%;height:50px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;}#icon-box.jsx-3007401511 a.jsx-3007401511{color:grey;padding:10px;}#icon-box.jsx-3007401511 a.jsx-3007401511:hover{color:black;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcVGFsaXRoYVxcRG9jdW1lbnRzXFxGcmFuY29pc1xcY29tcG9uZW50c1xcRm9vdGVyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQWdDZ0IsQUFHNkIsQUFXTCxBQU9ILEFBR0QsQUFNQSxBQUlDLFdBVEEsQUFNQyxDQVRmLEFBYUEsR0FwQmUsS0FYTyxHQXNCUCxDQU1mLElBaEJpQixZQVhGLEdBWUgsV0FDTSxpQkFDbEIsMEJBUXlCLGlCQXJCQSxrRkFzQnpCLGlCQXJCZSxhQUNGLFdBQ08sa0JBQ1QsU0FDTSxlQUNqQiIsImZpbGUiOiJDOlxcVXNlcnNcXFRhbGl0aGFcXERvY3VtZW50c1xcRnJhbmNvaXNcXGNvbXBvbmVudHNcXEZvb3Rlci5qcyIsInNvdXJjZXNDb250ZW50IjpbIi8vRm9vdGVyIGNvbXBvbmVuZXQgd2l0aCBhY3RpdmUgbGlua3NcclxuXHJcbmNvbnN0IEZvb3RlciA9ICgpID0+IChcclxuICA8ZGl2IGNsYXNzTmFtZT1cIm5hdlwiPlxyXG4gICBcclxuXHJcbiAgICA8ZGl2IGlkPVwiaWNvbi1ib3hcIj5cclxuICAgIDxkaXYgaWQ9XCJjb21wXCI+QWxsU291bmQgVmlzdWFsIGlzIHJlZ2lzdGVyZWQgYXMgRkMgQVYgYW5kIFNlY3VyaXR5IFB0eSBMdGQgMjAxNzwvZGl2PlxyXG4gICAgICB7XCIgXCJ9XHJcbiAgICAgIDxhXHJcbiAgICAgICAgaHJlZj1cIm1haWx0bzpmcmFuY29pc2NvZXR6ZWVAcm9ja2V0bWFpbC5jb20/U3ViamVjdD1EZWFyJTIwQWxsU291bmRWaXN1YWxcIlxyXG4gICAgICAgIHRhcmdldD1cIl90b3BcIlxyXG4gICAgICAgIGNsYXNzTmFtZT1cImljb24tbGlua1wiXHJcbiAgICAgID5cclxuICAgICAgICA8aSBjbGFzcz1cImZhcyBmYS1lbnZlbG9wZS1zcXVhcmUgaWNvblwiPjwvaT5cclxuICAgICAgPC9hPntcIiBcIn1cclxuICAgICAgPGFcclxuICAgICAgICBocmVmPVwibWFpbHRvOmZyYW5jb2lzY29ldHplZUByb2NrZXRtYWlsLmNvbT9TdWJqZWN0PURlYXIlMjBBbGxTb3VuZFZpc3VhbFwiXHJcbiAgICAgICAgdGFyZ2V0PVwiX3RvcFwiXHJcbiAgICAgICAgY2xhc3NOYW1lPVwiaWNvbi1saW5rXCJcclxuICAgICAgPlxyXG4gICAgICAgIDxpIGNsYXNzPVwiZmFiIGZhLWZhY2Vib29rLXNxdWFyZSBpY29uXCI+PC9pPlxyXG4gICAgICA8L2E+e1wiIFwifVxyXG4gICAgICA8YVxyXG4gICAgICAgIGhyZWY9XCJtYWlsdG86ZnJhbmNvaXNjb2V0emVlQHJvY2tldG1haWwuY29tP1N1YmplY3Q9RGVhciUyMEFsbFNvdW5kVmlzdWFsXCJcclxuICAgICAgICB0YXJnZXQ9XCJfdG9wXCJcclxuICAgICAgICBjbGFzc05hbWU9XCJpY29uLWxpbmtcIlxyXG4gICAgICA+XHJcbiAgICAgICAgPGkgY2xhc3M9XCJmYXMgZmEtcGhvbmUtc3F1YXJlIGljb25cIj48L2k+XHJcbiAgICAgIDwvYT5cclxuICAgIDwvZGl2PlxyXG5cclxuICAgIDxzdHlsZSBqc3g+e2BcclxuICAgICAgLm5hdiB7XHJcbiAgICAgICAgYmFja2dyb3VuZDogZGFya2dyZXk7XHJcbiAgICAgICAgZm9udC1mYW1pbHk6IGNhbGlicmk7XHJcbiAgICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcclxuICAgICAgICBwYWRkaW5nOiAxMHB4O1xyXG4gICAgICAgIHdpZHRoOiAxMDAlO1xyXG4gICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgICAgICBib3R0b206IDA7XHJcbiAgICAgICAgZm9udC1zaXplOiAyNXB4O1xyXG4gICAgICB9XHJcbiAgICAgICNjb21wIHtcclxuICAgICAgICBmb250LXNpemU6IDE1cHg7XHJcbiAgICAgICAgcGFkZGluZzogMTBweDtcclxuICAgICAgICBtYXJnaW4tdG9wOiA3cHg7XHJcbiAgICAgICAgY29sb3I6Z3JleTtcclxuICAgICAgICBmb250LXdlaWdodDpib2xkO1xyXG4gICAgICB9XHJcbiAgICAgICNjb21wOmhvdmVyIHtcclxuICAgICAgICBjb2xvcjogYmxhY2s7XHJcbiAgICAgIH1cclxuICAgICAgI2ljb24tYm94IHtcclxuICAgICAgICB3aWR0aDogMTAwJTtcclxuICAgICAgICBoZWlnaHQ6IDUwcHg7XHJcbiAgICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcclxuICAgICAgfVxyXG4gICAgICAjaWNvbi1ib3ggYSB7XHJcbiAgICAgICAgY29sb3I6IGdyZXk7XHJcbiAgICAgICAgcGFkZGluZzogMTBweDtcclxuICAgICAgfVxyXG4gICAgICAjaWNvbi1ib3ggYTpob3ZlciB7XHJcbiAgICAgICAgY29sb3I6IGJsYWNrO1xyXG4gICAgICB9XHJcbiAgICBgfTwvc3R5bGU+XHJcbiAgPC9kaXY+XHJcbik7XHJcblxyXG5leHBvcnQgZGVmYXVsdCBGb290ZXI7XHJcbiJdfQ== */\n/*@ sourceURL=C:\\Users\\Talitha\\Documents\\Francois\\components\\Footer.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
@@ -217,7 +217,7 @@ var Layout = function Layout(props) {
     crossorigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30
+      lineNumber: 34
     },
     __self: this
   }), __jsx("script", {
@@ -226,19 +226,19 @@ var Layout = function Layout(props) {
     crossorigin: "anonymous",
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31
+      lineNumber: 39
     },
     __self: this
   })), __jsx(_Navbar__WEBPACK_IMPORTED_MODULE_2__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33
+      lineNumber: 45
     },
     __self: this
   }), props.children, __jsx(_Footer__WEBPACK_IMPORTED_MODULE_3__["default"], {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 35
+      lineNumber: 47
     },
     __self: this
   }));
@@ -268,14 +268,14 @@ var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
 var Navbar = function Navbar() {
   return __jsx("div", {
-    className: "jsx-2496891311",
+    className: "jsx-2463648712",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 2
     },
     __self: this
   }, __jsx("nav", {
-    className: "jsx-2496891311" + " " + "navbar navbar-expand-lg navbar-dark bg-dark",
+    className: "jsx-2463648712" + " " + "navbar navbar-expand-lg  bg-dark",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 3
@@ -283,27 +283,27 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("a", {
     href: "/",
-    className: "jsx-2496891311" + " " + "navbar-brand",
+    className: "jsx-2463648712" + " " + "navbar-brand",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 4
     },
     __self: this
-  }, "Insert Company Name"), __jsx("button", {
+  }, "AllSound Visual"), __jsx("button", {
     type: "button",
     "data-toggle": "collapse",
     "data-target": "#navbarText",
     "aria-controls": "navbarText",
     "aria-expanded": "false",
     "aria-label": "Toggle navigation",
-    className: "jsx-2496891311" + " " + "navbar-toggler",
+    className: "jsx-2463648712" + " " + "navbar-toggler",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 5
     },
     __self: this
   }, __jsx("span", {
-    className: "jsx-2496891311" + " " + "navbar-toggler-icon",
+    className: "jsx-2463648712" + " " + "navbar-toggler-icon",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
@@ -311,21 +311,21 @@ var Navbar = function Navbar() {
     __self: this
   })), __jsx("div", {
     id: "navbarText",
-    className: "jsx-2496891311" + " " + "collapse navbar-collapse",
+    className: "jsx-2463648712" + " " + "collapse navbar-collapse",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 8
     },
     __self: this
   }, __jsx("ul", {
-    className: "jsx-2496891311" + " " + "navbar-nav mr-auto",
+    className: "jsx-2463648712" + " " + "navbar-nav mr-auto",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
     },
     __self: this
   }, __jsx("li", {
-    className: "jsx-2496891311" + " " + "nav-item",
+    className: "jsx-2463648712" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 10
@@ -333,14 +333,14 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("a", {
     href: "/",
-    className: "jsx-2496891311" + " " + "nav-link",
+    className: "jsx-2463648712" + " " + "nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 11
     },
     __self: this
   }, "Home")), __jsx("li", {
-    className: "jsx-2496891311" + " " + "nav-item",
+    className: "jsx-2463648712" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 13
@@ -348,14 +348,14 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("a", {
     href: "/about",
-    className: "jsx-2496891311" + " " + "nav-link",
+    className: "jsx-2463648712" + " " + "nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 14
     },
     __self: this
   }, "About")), __jsx("li", {
-    className: "jsx-2496891311" + " " + "nav-item",
+    className: "jsx-2463648712" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
@@ -363,14 +363,14 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("a", {
     href: "/installations",
-    className: "jsx-2496891311" + " " + "nav-link",
+    className: "jsx-2463648712" + " " + "nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 17
     },
     __self: this
   }, "Installations")), __jsx("li", {
-    className: "jsx-2496891311" + " " + "nav-item",
+    className: "jsx-2463648712" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 19
@@ -378,14 +378,14 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("a", {
     href: "/products",
-    className: "jsx-2496891311" + " " + "nav-link",
+    className: "jsx-2463648712" + " " + "nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 20
     },
     __self: this
   }, "Products")), __jsx("li", {
-    className: "jsx-2496891311" + " " + "nav-item",
+    className: "jsx-2463648712" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 22
@@ -393,14 +393,14 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("a", {
     href: "/specials",
-    className: "jsx-2496891311" + " " + "nav-link",
+    className: "jsx-2463648712" + " " + "nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 23
     },
     __self: this
   }, "Specials")), __jsx("li", {
-    className: "jsx-2496891311" + " " + "nav-item",
+    className: "jsx-2463648712" + " " + "nav-item",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 25
@@ -408,14 +408,14 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("a", {
     href: "/gallery",
-    className: "jsx-2496891311" + " " + "nav-link",
+    className: "jsx-2463648712" + " " + "nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 26
     },
     __self: this
   }, "Gallery"))), __jsx("span", {
-    className: "jsx-2496891311" + " " + "navbar-text nav-link",
+    className: "jsx-2463648712" + " " + "navbar-text nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 29
@@ -423,14 +423,14 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("i", {
     "class": "fab fa-facebook-square",
-    className: "jsx-2496891311",
+    className: "jsx-2463648712",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 30
     },
     __self: this
   })), __jsx("span", {
-    className: "jsx-2496891311" + " " + "navbar-text nav-link",
+    className: "jsx-2463648712" + " " + "navbar-text nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 31
@@ -438,14 +438,14 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("i", {
     "class": "fas fa-phone-square",
-    className: "jsx-2496891311",
+    className: "jsx-2463648712",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 32
     },
     __self: this
   })), __jsx("span", {
-    className: "jsx-2496891311" + " " + "navbar-text nav-link",
+    className: "jsx-2463648712" + " " + "navbar-text nav-link",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 33
@@ -453,16 +453,16 @@ var Navbar = function Navbar() {
     __self: this
   }, __jsx("i", {
     "class": "fas fa-envelope-square",
-    className: "jsx-2496891311",
+    className: "jsx-2463648712",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 34
     },
     __self: this
   })))), __jsx(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
-    id: "2496891311",
+    id: "2463648712",
     __self: this
-  }, ".navbar-text.jsx-2496891311{color:red;font-size:28px;}.navbar-text.jsx-2496891311:hover{color:blue;}a.jsx-2496891311:active{color:blue;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcVGFsaXRoYVxcRG9jdW1lbnRzXFxGcmFuY29pc1xcY29tcG9uZW50c1xcTmF2YmFyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9DWSxBQUdjLEFBSUMsQUFHRixVQU5PLENBSWpCLEFBR0YsY0FORSIsImZpbGUiOiJDOlxcVXNlcnNcXFRhbGl0aGFcXERvY3VtZW50c1xcRnJhbmNvaXNcXGNvbXBvbmVudHNcXE5hdmJhci5qcyIsInNvdXJjZXNDb250ZW50IjpbImNvbnN0IE5hdmJhciA9ICgpID0+IChcclxuICA8ZGl2PlxyXG48bmF2IGNsYXNzTmFtZT1cIm5hdmJhciBuYXZiYXItZXhwYW5kLWxnIG5hdmJhci1kYXJrIGJnLWRhcmtcIj5cclxuICA8YSBjbGFzc05hbWU9XCJuYXZiYXItYnJhbmRcIiBocmVmPVwiL1wiPkluc2VydCBDb21wYW55IE5hbWU8L2E+XHJcbiAgPGJ1dHRvbiBjbGFzc05hbWU9XCJuYXZiYXItdG9nZ2xlclwiIHR5cGU9XCJidXR0b25cIiBkYXRhLXRvZ2dsZT1cImNvbGxhcHNlXCIgZGF0YS10YXJnZXQ9XCIjbmF2YmFyVGV4dFwiIGFyaWEtY29udHJvbHM9XCJuYXZiYXJUZXh0XCIgYXJpYS1leHBhbmRlZD1cImZhbHNlXCIgYXJpYS1sYWJlbD1cIlRvZ2dsZSBuYXZpZ2F0aW9uXCI+XHJcbiAgICA8c3BhbiBjbGFzc05hbWU9XCJuYXZiYXItdG9nZ2xlci1pY29uXCI+PC9zcGFuPlxyXG4gIDwvYnV0dG9uPlxyXG4gIDxkaXYgY2xhc3NOYW1lPVwiY29sbGFwc2UgbmF2YmFyLWNvbGxhcHNlXCIgaWQ9XCJuYXZiYXJUZXh0XCI+XHJcbiAgICA8dWwgY2xhc3NOYW1lPVwibmF2YmFyLW5hdiBtci1hdXRvXCI+XHJcbiAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxyXG4gICAgICAgIDxhIGNsYXNzTmFtZT1cIm5hdi1saW5rXCIgaHJlZj1cIi9cIj5Ib21lPC9hPlxyXG4gICAgICA8L2xpPlxyXG4gICAgICA8bGkgY2xhc3NOYW1lPVwibmF2LWl0ZW1cIj5cclxuICAgICAgICA8YSBjbGFzc05hbWU9XCJuYXYtbGlua1wiIGhyZWY9XCIvYWJvdXRcIj5BYm91dDwvYT5cclxuICAgICAgPC9saT5cclxuICAgICAgPGxpIGNsYXNzTmFtZT1cIm5hdi1pdGVtXCI+XHJcbiAgICAgICAgPGEgY2xhc3NOYW1lPVwibmF2LWxpbmtcIiBocmVmPVwiL2luc3RhbGxhdGlvbnNcIj5JbnN0YWxsYXRpb25zPC9hPlxyXG4gICAgICA8L2xpPlxyXG4gICAgICA8bGkgY2xhc3NOYW1lPVwibmF2LWl0ZW1cIj5cclxuICAgICAgICA8YSBjbGFzc05hbWU9XCJuYXYtbGlua1wiIGhyZWY9XCIvcHJvZHVjdHNcIj5Qcm9kdWN0czwvYT5cclxuICAgICAgPC9saT5cclxuICAgICAgPGxpIGNsYXNzTmFtZT1cIm5hdi1pdGVtXCI+XHJcbiAgICAgICAgPGEgY2xhc3NOYW1lPVwibmF2LWxpbmtcIiBocmVmPVwiL3NwZWNpYWxzXCI+U3BlY2lhbHM8L2E+XHJcbiAgICAgIDwvbGk+XHJcbiAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxyXG4gICAgICAgIDxhIGNsYXNzTmFtZT1cIm5hdi1saW5rXCIgaHJlZj1cIi9nYWxsZXJ5XCI+R2FsbGVyeTwvYT5cclxuICAgICAgPC9saT5cclxuICAgIDwvdWw+XHJcbiAgICA8c3BhbiBjbGFzc05hbWU9XCJuYXZiYXItdGV4dCBuYXYtbGlua1wiPlxyXG4gICAgPGkgY2xhc3M9XCJmYWIgZmEtZmFjZWJvb2stc3F1YXJlXCI+PC9pPjwvc3Bhbj5cclxuICAgICAgPHNwYW4gY2xhc3NOYW1lPVwibmF2YmFyLXRleHQgbmF2LWxpbmtcIj5cclxuICAgICAgPGkgY2xhc3M9XCJmYXMgZmEtcGhvbmUtc3F1YXJlXCI+PC9pPjwvc3Bhbj5cclxuICAgICAgPHNwYW4gY2xhc3NOYW1lPVwibmF2YmFyLXRleHQgbmF2LWxpbmtcIj5cclxuICAgICAgPGkgY2xhc3M9XCJmYXMgZmEtZW52ZWxvcGUtc3F1YXJlXCI+PC9pPjwvc3Bhbj5cclxuICA8L2Rpdj5cclxuPC9uYXY+XHJcbjxzdHlsZSBqc3g+e2BcclxuICAubmF2YmFyLXRleHQge1xyXG4gICAgY29sb3I6cmVkO1xyXG4gICAgZm9udC1zaXplOiAyOHB4O1xyXG4gIH1cclxuLm5hdmJhci10ZXh0OmhvdmVyIHtcclxuICAgIGNvbG9yOmJsdWU7XHJcbiAgfVxyXG5hOmFjdGl2ZSB7XHJcbiAgY29sb3I6Ymx1ZTtcclxufVxyXG4gXHJcbiAgXHJcbmB9PC9zdHlsZT5cclxuPC9kaXY+XHJcbik7XHJcblxyXG5leHBvcnQgZGVmYXVsdCBOYXZiYXI7XHJcblxyXG4iXX0= */\n/*@ sourceURL=C:\\Users\\Talitha\\Documents\\Francois\\components\\Navbar.js */"));
+  }, ".navbar-text.jsx-2463648712{color:darkgrey;font-size:22px;}.navbar-text.jsx-2463648712:hover{color:red;}a.jsx-2463648712{color:darkgrey;font-size:14px;}a.jsx-2463648712:hover{color:red;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIkM6XFxVc2Vyc1xcVGFsaXRoYVxcRG9jdW1lbnRzXFxGcmFuY29pc1xcY29tcG9uZW50c1xcTmF2YmFyLmpzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQW9DWSxBQUlvQixBQUtMLEFBSUcsQUFJTCxVQVBWLEFBUUYsS0FibUIsQUFTRixlQVJmLEFBU0YiLCJmaWxlIjoiQzpcXFVzZXJzXFxUYWxpdGhhXFxEb2N1bWVudHNcXEZyYW5jb2lzXFxjb21wb25lbnRzXFxOYXZiYXIuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBOYXZiYXIgPSAoKSA9PiAoXHJcbiAgPGRpdj5cclxuPG5hdiBjbGFzc05hbWU9XCJuYXZiYXIgbmF2YmFyLWV4cGFuZC1sZyAgYmctZGFya1wiPlxyXG4gIDxhIGNsYXNzTmFtZT1cIm5hdmJhci1icmFuZFwiIGhyZWY9XCIvXCI+QWxsU291bmQgVmlzdWFsPC9hPlxyXG4gIDxidXR0b24gY2xhc3NOYW1lPVwibmF2YmFyLXRvZ2dsZXJcIiB0eXBlPVwiYnV0dG9uXCIgZGF0YS10b2dnbGU9XCJjb2xsYXBzZVwiIGRhdGEtdGFyZ2V0PVwiI25hdmJhclRleHRcIiBhcmlhLWNvbnRyb2xzPVwibmF2YmFyVGV4dFwiIGFyaWEtZXhwYW5kZWQ9XCJmYWxzZVwiIGFyaWEtbGFiZWw9XCJUb2dnbGUgbmF2aWdhdGlvblwiPlxyXG4gICAgPHNwYW4gY2xhc3NOYW1lPVwibmF2YmFyLXRvZ2dsZXItaWNvblwiPjwvc3Bhbj5cclxuICA8L2J1dHRvbj5cclxuICA8ZGl2IGNsYXNzTmFtZT1cImNvbGxhcHNlIG5hdmJhci1jb2xsYXBzZVwiIGlkPVwibmF2YmFyVGV4dFwiPlxyXG4gICAgPHVsIGNsYXNzTmFtZT1cIm5hdmJhci1uYXYgbXItYXV0b1wiPlxyXG4gICAgICA8bGkgY2xhc3NOYW1lPVwibmF2LWl0ZW1cIj5cclxuICAgICAgICA8YSBjbGFzc05hbWU9XCJuYXYtbGlua1wiIGhyZWY9XCIvXCI+SG9tZTwvYT5cclxuICAgICAgPC9saT5cclxuICAgICAgPGxpIGNsYXNzTmFtZT1cIm5hdi1pdGVtXCI+XHJcbiAgICAgICAgPGEgY2xhc3NOYW1lPVwibmF2LWxpbmtcIiBocmVmPVwiL2Fib3V0XCI+QWJvdXQ8L2E+XHJcbiAgICAgIDwvbGk+XHJcbiAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxyXG4gICAgICAgIDxhIGNsYXNzTmFtZT1cIm5hdi1saW5rXCIgaHJlZj1cIi9pbnN0YWxsYXRpb25zXCI+SW5zdGFsbGF0aW9uczwvYT5cclxuICAgICAgPC9saT5cclxuICAgICAgPGxpIGNsYXNzTmFtZT1cIm5hdi1pdGVtXCI+XHJcbiAgICAgICAgPGEgY2xhc3NOYW1lPVwibmF2LWxpbmtcIiBocmVmPVwiL3Byb2R1Y3RzXCI+UHJvZHVjdHM8L2E+XHJcbiAgICAgIDwvbGk+XHJcbiAgICAgIDxsaSBjbGFzc05hbWU9XCJuYXYtaXRlbVwiPlxyXG4gICAgICAgIDxhIGNsYXNzTmFtZT1cIm5hdi1saW5rXCIgaHJlZj1cIi9zcGVjaWFsc1wiPlNwZWNpYWxzPC9hPlxyXG4gICAgICA8L2xpPlxyXG4gICAgICA8bGkgY2xhc3NOYW1lPVwibmF2LWl0ZW1cIj5cclxuICAgICAgICA8YSBjbGFzc05hbWU9XCJuYXYtbGlua1wiIGhyZWY9XCIvZ2FsbGVyeVwiPkdhbGxlcnk8L2E+XHJcbiAgICAgIDwvbGk+XHJcbiAgICA8L3VsPlxyXG4gICAgPHNwYW4gY2xhc3NOYW1lPVwibmF2YmFyLXRleHQgbmF2LWxpbmtcIj5cclxuICAgIDxpIGNsYXNzPVwiZmFiIGZhLWZhY2Vib29rLXNxdWFyZVwiPjwvaT48L3NwYW4+XHJcbiAgICAgIDxzcGFuIGNsYXNzTmFtZT1cIm5hdmJhci10ZXh0IG5hdi1saW5rXCI+XHJcbiAgICAgIDxpIGNsYXNzPVwiZmFzIGZhLXBob25lLXNxdWFyZVwiPjwvaT48L3NwYW4+XHJcbiAgICAgIDxzcGFuIGNsYXNzTmFtZT1cIm5hdmJhci10ZXh0IG5hdi1saW5rXCI+XHJcbiAgICAgIDxpIGNsYXNzPVwiZmFzIGZhLWVudmVsb3BlLXNxdWFyZVwiPjwvaT48L3NwYW4+XHJcbiAgPC9kaXY+XHJcbjwvbmF2PlxyXG48c3R5bGUganN4PntgXHJcbiAgXHJcbiAgLm5hdmJhci10ZXh0IHtcclxuICAgIGNvbG9yOiBkYXJrZ3JleTtcclxuICAgIGZvbnQtc2l6ZTogMjJweDtcclxuICB9XHJcbiBcclxuICAubmF2YmFyLXRleHQ6aG92ZXIge1xyXG4gICAgY29sb3I6IHJlZDtcclxuICB9XHJcblxyXG5hIHtcclxuICBjb2xvcjogZGFya2dyZXk7XHJcbiAgZm9udC1zaXplOiAxNHB4O1xyXG59XHJcbmE6aG92ZXIge1xyXG4gIGNvbG9yOiByZWQ7XHJcbn1cclxuIFxyXG4gIFxyXG5gfTwvc3R5bGU+XHJcbjwvZGl2PlxyXG4pO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgTmF2YmFyO1xyXG5cclxuIl19 */\n/*@ sourceURL=C:\\Users\\Talitha\\Documents\\Francois\\components\\Navbar.js */"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Navbar);
