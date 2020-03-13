@@ -2,9 +2,10 @@
 //import Link from "next/link";
 const Footer = () => (
   <div className="nav">
-    <p id="comp">AllSound Visual</p>
+   
 
     <div id="icon-box">
+    <div id="comp">AllSound Visual</div>
       {" "}
       <a
         href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"
@@ -41,13 +42,16 @@ const Footer = () => (
         bottom: 0;
         font-size: 25px;
       }
-
       #comp {
         font-size: 15px;
         padding: 10px;
-        margin-bottom: -20px;
+        margin-top: 7px;
+        color:grey;
+        font-weight:bold;
       }
-
+      #comp:hover {
+        color: black;
+      }
       #icon-box {
         width: 100%;
         height: 50px;
@@ -59,7 +63,7 @@ const Footer = () => (
         padding: 10px;
       }
       #icon-box a:hover {
-        color: red;
+        color: black;
       }
     `}</style>
   </div>
