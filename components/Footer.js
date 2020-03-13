@@ -1,5 +1,5 @@
 //Footer componenet with active links
-//import Link from "next/link";
+
 const Footer = () => (
   <div className="nav">
    
