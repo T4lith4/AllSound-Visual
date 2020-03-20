@@ -11,21 +11,21 @@ const Footer = () => (
         target="_top"
         className="icon-link"
       >
-        <i className="fas fa-envelope-square icon"></i>
+        <i class="fas fa-envelope-square icon"></i>
       </a>{" "}
       <a
         href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"
         target="_top"
         className="icon-link"
       >
-        <i className="fab fa-facebook-square icon"></i>
+        <i class="fab fa-facebook-square icon"></i>
       </a>{" "}
       <a
         href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"
         target="_top"
         className="icon-link"
       >
-        <i className="fas fa-phone-square icon"></i>
+        <i class="fas fa-phone-square icon"></i>
       </a>
     </div>
 
@@ -38,19 +38,22 @@ const Footer = () => (
         padding: 10px;
         width: 100%;
         position: absolute;
-        bottom: 0;
+        margin-bottom: 0;
         font-size: 25px;
       }
+
       #comp {
         font-size: 15px;
         padding: 10px;
         margin-top: 7px;
-        color: grey;
-        font-weight: bold;
+        color: #1b171f;
+        font-weight: lighter;
       }
+
       #comp:hover {
         color: black;
       }
+
       #icon-box {
         width: 100%;
         height: 50px;
@@ -58,7 +61,7 @@ const Footer = () => (
         justify-content: center;
       }
       #icon-box a {
-        color: grey;
+        color: #1b171f;
         padding: 10px;
       }
       #icon-box a:hover {

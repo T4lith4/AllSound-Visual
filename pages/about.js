@@ -9,6 +9,7 @@ const About = () => (
         AllSound Visual was officilly launched in 2019 by Francios Coetzee, an
         Audio Visual industry professional who has acquired invaluable
         experience in the Audio Visual game since the 2011.
+        <i class="fab fa-instagram-square"></i>
       </p>
     </div>
     <style jsx>{`

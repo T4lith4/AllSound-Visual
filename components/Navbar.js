@@ -16,7 +16,7 @@ const Navbar = () => (
         <span className="navbar-toggler-icon"></span>
       </button>
       <div className="collapse navbar-collapse" id="navbarText">
-        <ul className="navbar-nav mr-auto">
+        <ul className="navbar-nav">
           <li className="nav-item">
             <a className="nav-link" href="/">
               Home
@@ -44,32 +44,55 @@ const Navbar = () => (
           </li>
           <li className="nav-item">
             <a className="nav-link" href="/gallery">
-              Gallery
+              Gallery <i class="fab fa-instagram-square"></i>
             </a>
           </li>
         </ul>
+
         <span className="navbar-text nav-link">
-          <i className="fab fa-facebook-square"></i>
+          <i className="fas fa-phone"></i>
         </span>
         <span className="navbar-text nav-link">
-          <i className="fas fa-phone-square"></i>
+          <i className="far fa-envelope"></i>
         </span>
         <span className="navbar-text nav-link">
-          <i className="fas fa-envelope-square"></i>
+          <i className="fab fa-facebook-f"></i>
+        </span>
+        <span className="navbar-text nav-link">
+          <i className="fab fa-instagram"></i>
         </span>
       </div>
     </nav>
     <style jsx>{`
+      nav {
+        height: 190px;
+      }
+
       .navbar-brand {
         color: red;
+        font-size: 30px;
+        margin-top: -40px;
+        margin-right: 45%;
+        margin-left: 45%;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+          1px 1px 0 #000;
       }
+
       .navbar-brand:hover {
-        color: blue;
+        color: white;
+      }
+      .nav-item {
+        margin-top: 80px;
+      }
+
+      .navbar-nav {
+        margin-left: -1040px;
       }
 
       .navbar-text {
         color: darkgrey;
-        font-size: 22px;
+        font-size: 14px;
+        margin-top: 80px;
       }
 
       .navbar-text:hover {
