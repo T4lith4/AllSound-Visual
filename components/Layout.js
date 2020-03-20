@@ -49,6 +49,8 @@ const Layout = props => (
     <style jsx>{`
       #spacer {
         height: 800px;
+        color: white;
+        background-color: darkgrey;
       }
     `}</style>
   </div>

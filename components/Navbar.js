@@ -1,9 +1,14 @@
 const Navbar = () => (
   <div>
-    <nav className="navbar navbar-expand-lg  bg-dark">
+    <nav className="navbar navbar-expand-lg  ">
       <a className="navbar-brand" href="/">
-        AllSound Visual
+        <img
+          className="logo"
+          src="/static/ASV.png"
+          alt="AllSound Visual Logo"
+        />
       </a>
+
       <button
         className="navbar-toggler"
         type="button"
@@ -64,12 +69,14 @@ const Navbar = () => (
       </div>
     </nav>
     <style jsx>{`
-      nav {
-        height: 190px;
+      .logo {
+        width: 200px;
+        padding-right: 10px;
+        padding-bottom: 60px;
+        margin-top: 80px;
       }
 
       .navbar-brand {
-        color: red;
         font-size: 30px;
         margin-top: -40px;
         margin-right: 45%;
@@ -82,7 +89,7 @@ const Navbar = () => (
         color: white;
       }
       .nav-item {
-        margin-top: 80px;
+        margin-top: 180px;
       }
 
       .navbar-nav {
@@ -90,21 +97,21 @@ const Navbar = () => (
       }
 
       .navbar-text {
-        color: darkgrey;
+        color: grey;
         font-size: 14px;
-        margin-top: 80px;
+        margin-top: 180px;
       }
 
       .navbar-text:hover {
-        color: red;
+        color: #c803dd;
       }
 
       a {
-        color: darkgrey;
+        color: grey;
         font-size: 14px;
       }
       a:hover {
-        color: red;
+        color: #c803dd;
       }
     `}</style>
   </div>
