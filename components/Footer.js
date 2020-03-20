@@ -2,31 +2,30 @@
 
 const Footer = () => (
   <div className="nav">
-   
-
     <div id="icon-box">
-    <div id="comp">AllSound Visual is registered as FC AV and Security Pty Ltd 2017</div>
-      {" "}
+      <div id="comp">
+        AllSound Visual is registered as FC AV and Security Pty Ltd 2017
+      </div>{" "}
       <a
         href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"
         target="_top"
         className="icon-link"
       >
-        <i class="fas fa-envelope-square icon"></i>
+        <i className="fas fa-envelope-square icon"></i>
       </a>{" "}
       <a
         href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"
         target="_top"
         className="icon-link"
       >
-        <i class="fab fa-facebook-square icon"></i>
+        <i className="fab fa-facebook-square icon"></i>
       </a>{" "}
       <a
         href="mailto:francoiscoetzee@rocketmail.com?Subject=Dear%20AllSoundVisual"
         target="_top"
         className="icon-link"
       >
-        <i class="fas fa-phone-square icon"></i>
+        <i className="fas fa-phone-square icon"></i>
       </a>
     </div>
 
@@ -46,8 +45,8 @@ const Footer = () => (
         font-size: 15px;
         padding: 10px;
         margin-top: 7px;
-        color:grey;
-        font-weight:bold;
+        color: grey;
+        font-weight: bold;
       }
       #comp:hover {
         color: black;

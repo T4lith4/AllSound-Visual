@@ -1,11 +1,11 @@
 import Layout from "../components/Layout";
 
-const Index = () => (
+const Services = () => (
   <Layout>
     <div>
-      <h1>Welcome to AllSound Visual</h1>
+      <h1>Services Page</h1>
     </div>
   </Layout>
 );
 
-export default Index;
+export default Services;
